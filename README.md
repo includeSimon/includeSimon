@@ -1,3 +1,21 @@
+![Header](./github-header-image.png)
+
+### Languages
+
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
 ## 🔥 Github Stats
 
 <!-- <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/> -->
